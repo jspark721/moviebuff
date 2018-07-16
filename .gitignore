@@ -16,6 +16,7 @@
 /tmp/*
 !/log/.keep
 !/tmp/.keep
+/public/systems/movies/images
 
 # Ignore uploaded files in development
 /storage/*
